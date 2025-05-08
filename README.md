@@ -118,8 +118,15 @@ The script will:
 
 ## Selected Visualizations
 
+Below are some of the 43 plots generated to visualize the stock market data better:
+
+### Apple Stock (AAPL)
+
 <p align="center">
   <img src="img/plot-1.png" width="100%" />
+</p>
+<p align="center">
+  <img src="img/plot-2.png" width="100%" />
 </p>
 <p align="center">
   <img src="img/plot-3.png" width="100%" />
@@ -131,7 +138,28 @@ The script will:
   <img src="img/plot-5.png" width="100%" />
 </p>
 <p align="center">
-  <img src="img/plot-43.png" width="100%" />
+  <img src="img/plot-6.png" width="100%" />
+</p>
+
+### Microsoft Stock (MSFT)
+
+<p align="center">
+  <img src="img/plot-7.png" width="100%" />
+</p>
+<p align="center">
+  <img src="img/plot-8.png" width="100%" />
+</p>
+<p align="center">
+  <img src="img/plot-9.png" width="100%" />
+</p>
+<p align="center">
+  <img src="img/plot-10.png" width="100%" />
+</p>
+<p align="center">
+  <img src="img/plot-11.png" width="100%" />
+</p>
+<p align="center">
+  <img src="img/plot-12.png" width="100%" />
 </p>
 
 ---
