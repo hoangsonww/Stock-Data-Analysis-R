@@ -2,6 +2,8 @@
 
 A comprehensive R script that fetches daily adjusted closing prices for a selection of major tickers from Yahoo Finance and generates a suite of exploratory and analytical plots, including moving averages, returns, volatility, cumulative performance, and comparative normalized charts.
 
+> Author: [David Nguyen](https://github.com/hoangsonww)
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)  
